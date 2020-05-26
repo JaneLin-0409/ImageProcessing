@@ -1,3 +1,4 @@
 # ImageProcessing
-1.using LBS to hide information
-2.to be continued
+1.make Binary and grayscale images by colorful image
+2.using LBS to hide information
+3.to be continued
